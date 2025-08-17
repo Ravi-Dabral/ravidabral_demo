@@ -1,3 +1,3 @@
 # ravidabral_demo
 This is my first Git Repository
-Author - Shardha Khapra
+Author - Ravi Dabral
